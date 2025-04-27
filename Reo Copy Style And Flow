@@ -86,7 +86,7 @@ FlowButton.Parent = SectionFrame
 
 -- Style Options
 local styles = {
-    "Kaiser", "NEL Isagi", "Sae", "Don Lorenzo", "Kunigami", "Rin", "Shidou", "Yukimiya", "King", "Aiku", "Nagi", "Reo", "Karasu", "Bachira" , "Otoya" , "Hiori" , "Gagamaru" , "Kurona" , "Igaguri" , "Isagi" , "Chigiri"
+    "Kaiser", "NEL Isagi", "Sae", "Don Lorenzo", "NEL Bachira", "Kunigami", "Rin", "Shidou", "Yukimiya", "King", "Aiku", "Nagi", "Reo", "Karasu", "Bachira" , "Otoya" , "Hiori" , "Gagamaru" , "Kurona" , "Igaguri" , "Isagi" , "Chigiri"
 }
 
 local styleList = Instance.new("ScrollingFrame")
@@ -121,7 +121,7 @@ end
 
 -- Flow Options
 local flows = {
-    "Emperor", "Soul Harvester", "Awakened Genius", "Snake", "Prodigy", "Dribbler", "Crow", "Demon Wings", "Wild Card", "Trap", "Chameleon", "Genius", "Monster", "Gale Burst", "King's Instinct", "Buddha's Blessing", "Lightning", "Ice", "Puzzle"
+    "Emperor", "Soul Harvester", "Awakened Genius", "Bee Freestyle", "Snake", "Prodigy", "Dribbler", "Crow", "Demon Wings", "Wild Card", "Trap", "Chameleon", "Genius", "Monster", "Gale Burst", "King's Instinct", "Buddha's Blessing", "Lightning", "Ice", "Puzzle"
 }
 
 local flowList = Instance.new("ScrollingFrame")
